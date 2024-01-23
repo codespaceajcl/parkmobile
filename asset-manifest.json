@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.acbc72d2.css",
-    "main.js": "/static/js/main.f1086983.js",
-    "static/media/main_logo.png": "/static/media/main_logo.107f1ba1fc894fa94376.png",
-    "index.html": "/index.html"
+    "main.css": "/parkmobile/static/css/main.acbc72d2.css",
+    "main.js": "/parkmobile/static/js/main.a58c7aed.js",
+    "static/media/main_logo.png": "/parkmobile/static/media/main_logo.107f1ba1fc894fa94376.png",
+    "index.html": "/parkmobile/index.html"
   },
   "entrypoints": [
     "static/css/main.acbc72d2.css",
-    "static/js/main.f1086983.js"
+    "static/js/main.a58c7aed.js"
   ]
 }
